@@ -6,4 +6,4 @@ make
 
 Posterioirmente para ejecutarlo utilice:
 
-./bin/holamundo.o
+./bin/holamundo
